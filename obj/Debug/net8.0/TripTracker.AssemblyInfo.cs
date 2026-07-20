@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9782c05d29d1d2038f5a15fa3de5abc31b8a28e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7324e2705d4e0593a3a71512afd706197d94ca3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

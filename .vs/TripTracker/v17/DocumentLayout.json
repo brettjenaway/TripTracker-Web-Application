@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\itineraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\itineraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\accommodationgap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\accommodationgap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\accommodationoverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\accommodationoverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\costsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\costsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\activitybooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\activitybooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\accommodationbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\accommodationbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\transportbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\transportbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|c:\\users\\brett\\onedrive\\documents\\uni\\2026 semester 2\\csc6470 - server-side web technology\\triptracker\\csc6470-triptracker\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4265-4975-4975-A683-5FD85927FCAA}|TripTracker.csproj|solutionrelative:models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItineraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\ItineraryItem.cs",
+              "RelativeDocumentMoniker": "Models\\ItineraryItem.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\ItineraryItem.cs",
+              "RelativeToolTip": "Models\\ItineraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:09:26.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccommodationGap.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\AccommodationGap.cs",
+              "RelativeDocumentMoniker": "Models\\AccommodationGap.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\AccommodationGap.cs",
+              "RelativeToolTip": "Models\\AccommodationGap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:09:20.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccommodationOverlap.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\AccommodationOverlap.cs",
+              "RelativeDocumentMoniker": "Models\\AccommodationOverlap.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\AccommodationOverlap.cs",
+              "RelativeToolTip": "Models\\AccommodationOverlap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:09:16.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CostSummary.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\CostSummary.cs",
+              "RelativeDocumentMoniker": "Models\\CostSummary.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\CostSummary.cs",
+              "RelativeToolTip": "Models\\CostSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:09:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyRate.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\CurrencyRate.cs",
+              "RelativeDocumentMoniker": "Models\\CurrencyRate.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\CurrencyRate.cs",
+              "RelativeToolTip": "Models\\CurrencyRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:09:00.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityBooking.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\ActivityBooking.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityBooking.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\ActivityBooking.cs",
+              "RelativeToolTip": "Models\\ActivityBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:08:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccommodationBooking.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\AccommodationBooking.cs",
+              "RelativeDocumentMoniker": "Models\\AccommodationBooking.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\AccommodationBooking.cs",
+              "RelativeToolTip": "Models\\AccommodationBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:08:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransportBooking.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\TransportBooking.cs",
+              "RelativeDocumentMoniker": "Models\\TransportBooking.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\TransportBooking.cs",
+              "RelativeToolTip": "Models\\TransportBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:08:40.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:08:33.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\brett\\OneDrive\\Documents\\Uni\\2026 Semester 2\\CSC6470 - Server-side Web Technology\\TripTracker\\CSC6470-TripTracker\\Models\\Trip.cs",
+              "RelativeToolTip": "Models\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T03:07:46.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
