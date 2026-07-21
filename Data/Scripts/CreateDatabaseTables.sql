@@ -1,11 +1,13 @@
-﻿CREATE TABLE Trips (
+﻿-- Database Table Creation for TripTracker
+
+CREATE TABLE Trips (
 TripID INTEGER PRIMARY KEY,
 UserID INTEGER NOT NULL,
 TripName TEXT NOT NULL,
 Description TEXT,
 Destination TEXT NOT NULL,
-StartDate TEXT NOT NULL,
-EndDate TEXT NOT NULL,
+StartDate DATE NOT NULL,
+EndDate DATE NOT NULL,
 BaseCurrency TEXT NOT NULL
 );
 
@@ -16,13 +18,13 @@ TransportType TEXT NOT NULL,
 TransportProvider TEXT NOT NULL,
 BookingPlatform TEXT NOT NULL,
 BookingReference TEXT,
-Price DECIMAL(10,2),
-CurrencyCode TEXT,
+Price NUMERIC,
+CurrencyCode TEXT NOT NULL,
 DepartureDateTime DATE NOT NULL,
-DepartureTimezone DATE,
-ArrivalDateTime TEXT,
+DepartureTimezone TEXT,
+ArrivalDateTime DATE,
 ArrivalTimezone TEXT,
-FreeCancellation TEXT,
-CancellationDeadline DATE
+FreeCancellation BOOLEAN,
+CancellationDeadline DATE,
 FOREIGN KEY (TripID) REFERENCES Trips(TripID)
 )
