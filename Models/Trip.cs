@@ -2,5 +2,14 @@
 {
     public class Trip
     {
+        public int TripID {  get; set; }
+        public string UserID { get; set; } = string.Empty;
+        public string TripName { get; set; } = string.Empty;
+        public string? TripDescription { get; set; }
+        public string TripDestination { get; set; } = string.Empty;
+        public DateOnly StartDate { get; set; }
+        public DateOnly EndDate { get; set; }
+        public string BaseCurrency { get; set; } = "AUD";            
     }
+
 }
