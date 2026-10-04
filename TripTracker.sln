@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.37314.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripTracker", "TripTracker.csproj", "{D24F4265-4975-4975-A683-5FD85927FCAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripTracker.Tests", "..\TripTracker.Tests\TripTracker.Tests.csproj", "{A9DB5E5C-ADA4-4992-A43B-A9FD1BB64BFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripTracker.Tests", "TripTracker.Tests\TripTracker.Tests.csproj", "{3B178CC2-01CA-A7A5-45CF-21FEE953BA67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D24F4265-4975-4975-A683-5FD85927FCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24F4265-4975-4975-A683-5FD85927FCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D24F4265-4975-4975-A683-5FD85927FCAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9DB5E5C-ADA4-4992-A43B-A9FD1BB64BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9DB5E5C-ADA4-4992-A43B-A9FD1BB64BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9DB5E5C-ADA4-4992-A43B-A9FD1BB64BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9DB5E5C-ADA4-4992-A43B-A9FD1BB64BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B178CC2-01CA-A7A5-45CF-21FEE953BA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B178CC2-01CA-A7A5-45CF-21FEE953BA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B178CC2-01CA-A7A5-45CF-21FEE953BA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B178CC2-01CA-A7A5-45CF-21FEE953BA67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

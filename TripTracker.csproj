@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+		<!-- your existing package references etc. -->
+
+		<ItemGroup>
+			<Compile Remove="TripTracker.Tests\**\*.cs" />
+		</ItemGroup>
+
 </Project>

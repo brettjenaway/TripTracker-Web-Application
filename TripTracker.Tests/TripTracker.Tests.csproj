@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CSC6470-TripTracker\TripTracker.csproj" />
+    <ProjectReference Include="..\TripTracker.csproj" />
   </ItemGroup>
 
   <ItemGroup>
